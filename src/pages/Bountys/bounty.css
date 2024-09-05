@@ -1,0 +1,9 @@
+.bounty-button{
+    background-color: #ffa600ea;
+    padding: 1rem 3rem;
+    border-radius:0.4rem;
+    transition: 0.3s all ease-in-out;
+}
+.bounty-button:hover{
+    background-color: #da930f;
+}

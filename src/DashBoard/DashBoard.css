@@ -1,0 +1,58 @@
+.divider {
+	border-right: 1px solid #000;
+	height: 2.4rem;
+	margin: 0 10px;
+}
+.dividers {
+	border-right: 3px solid #000;
+	height: 1.2rem;
+	margin: 0 10px;
+}
+.dashboard-card {
+	color: white !important;
+	background-color: #30d6d3f7 !important;
+}
+.dashboard-big-card {
+	color: white !important;
+	background-color: #cc690cf7 !important;
+}
+.dividers-icon {
+	border-right: 3px solid #000;
+	height: 5rem;
+	margin: 0 10px;
+}
+.dashboard-icon {
+	color: white;
+	height: 4rem;
+	width: 4rem;
+	background-color: #30d6d3f7;
+	border-radius: 1rem;
+}
+.dashboard-input input {
+	height: 3rem;
+	border: 3px solid #30d6d3f7;
+	border-radius: 6px;
+}
+.dashboard-input select {
+	margin: 0 2rem;
+	height: 3rem;
+	border: 3px solid #30d6d3f7;
+	border-radius: 6px;
+}
+.btn1 {
+	border-radius: 6px;
+	height: 3rem;
+	background-color: green;
+}
+.btn2 {
+	border-radius: 6px;
+	height: 3rem;
+	background-color: blue;
+}
+.withdraw-input {
+	height: 3rem;
+	background-color: bisque;
+}
+.withdraw-input:hover {
+	border: 1px solid bisque;
+}

@@ -1,0 +1,43 @@
+html {
+font-family: "Heebo", sans-serif;
+font-family: "Montserrat", sans-serif;
+font-family: "Nunito", sans-serif;
+font-family: "Outfit", sans-serif;
+font-family: "Poppins", sans-serif;
+font-family: "Work Sans", sans-serif;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #D2E8F8, #fff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #242A2F;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.thumbsUp path:hover {
+    fill: #29E56E;
+}
+
+.thumbsDown path:hover {
+    fill: #F73131;
+
+}
+
+:root {
+    --primary-color: #54a1cd;
+}
+

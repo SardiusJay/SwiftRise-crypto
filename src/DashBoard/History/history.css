@@ -1,0 +1,22 @@
+.select{
+    padding: 1.4rem 0.1rem;
+    /* border-radius: 12px ; */
+}
+.search{
+    margin-top: 3rcap;
+    text-align: center;
+    cursor: pointer;
+    height: 4rem;
+    width: 4rem;
+    background-color: gold;
+}
+.__pag_margin{
+    padding: 0 0 0 11rem;
+}
+.pag-icon {
+	color: #54a1cd;
+	height: 2rem;
+	width: 2rem;
+	/* background-color: #30d6d3f7; */
+	border-radius: 1rem;
+}
