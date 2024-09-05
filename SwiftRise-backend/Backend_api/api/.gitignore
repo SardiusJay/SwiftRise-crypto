@@ -1,0 +1,15 @@
+node_modules
+package-lock.json
+.env
+/v1/models/engine/blacklist.json
+artifacts
+cache
+coverage
+coverage.json
+deployments
+.encryptedKey.json
+gas-report.txt
+v1/mongo_setup.js
+/v1/models/engine/reset-blacklist.json
+/v1/logs
+/v1/models/engine/contract_storage.js

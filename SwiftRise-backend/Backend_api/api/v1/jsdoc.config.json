@@ -1,0 +1,9 @@
+{
+  "source": {
+    "include": ["./routes"],
+    "exclude": ["./node_modules"]
+  },
+  "opts": {
+    "recurse": true
+  }
+}
